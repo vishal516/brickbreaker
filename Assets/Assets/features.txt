@@ -1,0 +1,12 @@
+﻿
+5. crane :
+7. three balls
+8. aiming ball
+
+damages:
+4. shake
+ 
+more features:
+1. blocking bricks that cant be destroyed / need to be smaller than normal cubes 
+2. show current power indicator
+3. settings menu
